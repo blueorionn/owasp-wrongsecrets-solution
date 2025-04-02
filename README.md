@@ -1,4 +1,4 @@
-# OWASP WrongSecrets Solutions
+# OWASP WrongSecrets Solution
 
 This repository contains solutions and walkthroughs for the OWASP WrongSecrets vulnerable application.
 

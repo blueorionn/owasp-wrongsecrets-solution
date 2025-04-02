@@ -1,4 +1,4 @@
-# Contributing to OWASP WrongSecrets Solutions
+# Contributing to OWASP WrongSecrets Solution
 
 Thank you for considering contributing to this project! Your contributions help improve the quality of solutions and educational content for security enthusiasts.
 
@@ -9,8 +9,8 @@ Thank you for considering contributing to this project! Your contributions help 
     Start by forking this repository to your GitHub account and cloning it locally:
 
     ```bash
-    git clone https://github.com/blueorionn/owasp-wrongsecrets-solutions.git
-    cd owasp-wrongsecrets-solutions
+    git clone https://github.com/blueorionn/owasp-wrongsecrets-solution.git
+    cd owasp-wrongsecrets-solution
     ```
 
 2. Choose a Challenge to Solve
