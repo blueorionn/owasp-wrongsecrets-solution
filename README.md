@@ -2,6 +2,8 @@
 
 This repository contains solutions and walkthroughs for the OWASP WrongSecrets vulnerable application.
 
+![Home Page](img/homepage.png)
+
 ## About OWASP WrongSecrets
 
 OWASP WrongSecrets is a game packed with real life examples of how to not store secrets in your software. Each of these examples is captured in a challenge, which you need to solve using various tools and techniques. Solving these challenges will help you recognize common mistakes & can help you to reflect on your own secrets management strategy.
